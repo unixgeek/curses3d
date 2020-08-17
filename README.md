@@ -1,0 +1,2 @@
+# Curses3D
+This is my take on the 3D engine detailed in the YouTube video [Code-It-Yourself! First Person Shooter](https://www.youtube.com/watch?v=xW8skO7MFYw). The major difference is this implementation was developed on Linux using ncurses.
